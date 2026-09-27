@@ -1,0 +1,6 @@
+{
+  "name": "CraftVerse - Free Fire Craftland Maps",
+  "description": "Discover, share, and copy the best Free Fire Craftland map codes, previews, and creator links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
